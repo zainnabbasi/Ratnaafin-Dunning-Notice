@@ -1,0 +1,6 @@
+{
+  "name": "Ratnaafin Dunning Notice Mail Merge & Batch PDF Generator",
+  "description": "Generate individual Ratnaafin letterhead dunning notice PDFs from Excel in English and Gujarati, named automatically by borrower email with 1-click ZIP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

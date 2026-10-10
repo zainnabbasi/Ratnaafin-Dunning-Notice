@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for the Ratnaafin Dunning Notice PDF Generator & Mail Merge System. Covers Excel/CSV parsing, English & Gujarati letterhead templating, 6-variable dynamic injection, email-based auto-naming, individual & bulk ZIP downloads, and Gujarati font rendering.",
+  "updatedAt":  "2026-10-10T11:41:47.427002970Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
